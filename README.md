@@ -1,77 +1,119 @@
-}<h1 align="center"><b>Hola , Soy Reyna Blacido </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👋 Hola, soy Maikel Flores
 
+🎓 Estudiante de Ingeniería en Sistemas  
+💻 Desarrollador Full Stack en formación  
+🚀 Apasionado por la programación, algoritmos, bases de datos y desarrollo de software  
+📍 Costa Rica
 
+---
 
-Soy estudiante de la carrera de **Ingeniería de Software**, actualmente me encuentro a mitad de mis estudios.  
-Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trab``ajo como **desarrolladora de software independiente**.  
-Me apasiona aprender y crear soluciones.  
+## 🧑‍💻 Sobre mí
 
-Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com</a>  
+- 🔭 Actualmente trabajando en proyectos personales y académicos.
+- 🌱 Aprendiendo Arquitectura de Software, APIs REST e Inteligencia Artificial.
+- 🎮 Interesado en el desarrollo de videojuegos y sistemas de estrategia.
+- 🗄️ Experiencia con bases de datos relacionales y diseño de sistemas.
+- 📚 Siempre buscando aprender nuevas tecnologías y buenas prácticas.
 
-<h2>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
-  Estudios
-</h2>
+---
 
+## 🛠️ Tecnologías y Herramientas
 
+### Lenguajes
 
-**Universidad Tecnológica del Perú (UTP)** <br/>
-🎓 Ingeniería de Software<br/>
-📅 2025 – Actualmente <br/>
-⏳ En curso.  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Bases de Datos
 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Instituto de Investigación y Desarrollo de Administración y Tecnología (IDAT)**<br/>
-🎓 Computación e Informática <br/>
-📅 2022 - 2024 <br/>
-✅ Finalizado. <br/>
+### Herramientas
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
 
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
+## 🚀 Proyectos Destacados
 
-<p>Lenguajes</p>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white">
-</span>  
+### ♞ Knight's Tour Solver
 
-<h4>Bases de Datos</h4>
-<span>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</span>  
+Aplicación que resuelve y visualiza el recorrido del caballo en un tablero de ajedrez utilizando algoritmos de búsqueda.
 
-<h4>Tecnologías</h4>
-<span>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</span>  
+<a href="https://github.com/MaikelFn/Proyecto-Recorrido-del-Caballo-en-Ajedrez">
+  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<h4>Redes y Contacto</h4>
-<p>
-<a href="https://github.com/BlackDoubleB" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="http://linkedin.com/in/reyna-blacido-aparicio-a03558290" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:blancablacido@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+---
+
+### 🌎 CR Tours Web Platform
+
+Sitio web desarrollado para la gestión y promoción de servicios turísticos en Costa Rica.
+
+<a href="https://github.com/MaikelFn/PY-3-Requerimientos">
+  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 🚀 Galactic Colonies
+
+Juego de estrategia espacial enfocado en la expansión, administración de recursos y conquista galáctica.
+
+<a href="https://github.com/MaikelFn/Colonias-Galacticas">
+  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 🎨 Probabilistic Graph Coloring
+
+Implementación de algoritmos de búsqueda para resolver problemas de coloración probabilística de grafos.
+
+<a href="https://github.com/MaikelFn/Proyecto-2-Coloracion-Probabilistica-de-Grafos-con-Busqueda">
+  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaikelFn&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikelFn&layout=compact&theme=tokyonight"/>
 </p>
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub:</h2>  
+---
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=BlackDoubleB&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Reyna" height="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackDoubleB&theme=material-palenight" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDoubleB&layout=compact&theme=tokyonight&hide_border=false" height="250" />
+## 📈 Racha de Contribuciones
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MaikelFn&theme=tokyonight"/>
+</p>
 
-------
+---
 
-Credits: [BlackDoubleB](https://github.com/BlackDoubleB)<br/>
-Last Edited on: 15/09/2025
+## 🎯 Objetivos Actuales
+
+- Construir proyectos Full Stack.
+- Mejorar mis habilidades en Backend.
+- Aprender patrones de diseño y arquitectura de software.
+- Profundizar en Inteligencia Artificial.
+- Contribuir a proyectos de código abierto.
+
+---
+
+## 📫 Contacto
+
+<a href="https://github.com/MaikelFn">
+  <img src="https://img.shields.io/badge/GitHub-MaikelFn-181717?style=for-the-badge&logo=github">
+</a>
+
+---
+
+⭐ Gracias por visitar mi perfil.
