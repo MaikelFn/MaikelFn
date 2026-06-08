@@ -1,5 +1,13 @@
 # 👋 Hola, soy Maikel Flores
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=650&lines=Ingeniería+en+Sistemas;Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+Node.js;Construyendo+proyectos+y+aprendiendo+cada+día" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MaikelFn&theme=tokyonight"/>
+</p>
+
 🎓 Estudiante de Ingeniería en Sistemas  
 💻 Desarrollador Full Stack en formación  
 🚀 Apasionado por la programación, algoritmos, bases de datos y desarrollo de software  
@@ -58,7 +66,11 @@
 Aplicación que resuelve y visualiza el recorrido del caballo en un tablero de ajedrez utilizando algoritmos de búsqueda.
 
 <a href="https://github.com/MaikelFn/Proyecto-Recorrido-del-Caballo-en-Ajedrez">
-  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://recorrido-del-caballo.onrender.com">
+  <img src="https://img.shields.io/badge/Demo%20Online-46E3B7?style=for-the-badge&logo=render&logoColor=black">
 </a>
 
 ---
@@ -68,7 +80,11 @@ Aplicación que resuelve y visualiza el recorrido del caballo en un tablero de a
 Sitio web desarrollado para la gestión y promoción de servicios turísticos en Costa Rica.
 
 <a href="https://github.com/MaikelFn/PY-3-Requerimientos">
-  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://py-3-requerimientos-1cv5.vercel.app/">
+  <img src="https://img.shields.io/badge/Demo%20Online-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 ---
@@ -78,7 +94,11 @@ Sitio web desarrollado para la gestión y promoción de servicios turísticos en
 Juego de estrategia espacial enfocado en la expansión, administración de recursos y conquista galáctica.
 
 <a href="https://github.com/MaikelFn/Colonias-Galacticas">
-  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://colonias-galacticas-wqgq.onrender.com">
+  <img src="https://img.shields.io/badge/Demo%20Online-46E3B7?style=for-the-badge&logo=render&logoColor=black">
 </a>
 
 ---
@@ -88,16 +108,12 @@ Juego de estrategia espacial enfocado en la expansión, administración de recur
 Implementación de algoritmos de búsqueda para resolver problemas de coloración probabilística de grafos.
 
 <a href="https://github.com/MaikelFn/Proyecto-2-Coloracion-Probabilistica-de-Grafos-con-Busqueda">
-  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
----
-
-## 📈 Racha de Contribuciones
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaikelFn&theme=tokyonight"/>
-</p>
+<a href="https://proyecto-2-coloracion-probabilistica-de-grafos-con-l4kktbkcq.vercel.app/">
+  <img src="https://img.shields.io/badge/Demo%20Online-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
 ---
 
@@ -124,7 +140,7 @@ Implementación de algoritmos de búsqueda para resolver problemas de coloració
 </a>
 
 <a href="https://x.com/FnMaik0405">
-  <img src="https://img.shields.io/badge/Twitter-Perfil-1DA1F2?style=for-the-badge&logo=x&logoColor=white">
+  <img src="https://img.shields.io/badge/X-Perfil-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
 <a href="https://www.facebook.com/maikel.flores.798">
@@ -136,3 +152,4 @@ Implementación de algoritmos de búsqueda para resolver problemas de coloració
 ---
 
 ⭐ Gracias por visitar mi perfil.
+```
